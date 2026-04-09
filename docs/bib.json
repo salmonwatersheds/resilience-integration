@@ -1,0 +1,516 @@
+[
+	{
+		"id": "WilsonEtAl2023PhenologicalShiftsMismatch",
+		"type": "article-journal",
+		"citation-key": "WilsonEtAl2023PhenologicalShiftsMismatch",
+		"container-title": "Nature Ecology & Evolution",
+		"DOI": "10.1038/s41559-023-02057-1",
+		"publisher": "Springer US",
+		"title": "Phenological shifts and mismatch with marine productivity vary among Pacific salmon species and populations",
+		"author": [
+			{
+				"family": "Wilson",
+				"given": "Samantha M"
+			},
+			{
+				"family": "Moore",
+				"given": "Jonathan W"
+			},
+			{
+				"family": "Ward",
+				"given": "Eric J"
+			},
+			{
+				"family": "Kinsel",
+				"given": "Clayton W"
+			},
+			{
+				"family": "Anderson",
+				"given": "Joseph H"
+			},
+			{
+				"family": "Buehrens",
+				"given": "Thomas W"
+			},
+			{
+				"family": "Carr-harris",
+				"given": "Charmaine N"
+			},
+			{
+				"family": "Cochran",
+				"given": "Patrick C"
+			},
+			{
+				"family": "Davies",
+				"given": "Trevor D"
+			},
+			{
+				"family": "Downen",
+				"given": "Mark R"
+			},
+			{
+				"family": "Godbout",
+				"given": "Lyse"
+			},
+			{
+				"family": "Lisi",
+				"given": "Peter J"
+			},
+			{
+				"family": "Litz",
+				"given": "Marisa N C"
+			},
+			{
+				"family": "Patterson",
+				"given": "David A"
+			},
+			{
+				"family": "Selbie",
+				"given": "Daniel T"
+			},
+			{
+				"family": "Sloat",
+				"given": "Matthew R"
+			},
+			{
+				"family": "Suring",
+				"given": "Erik J"
+			},
+			{
+				"family": "Tattam",
+				"given": "Ian A"
+			},
+			{
+				"family": "Wyatt",
+				"given": "Garth J"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "HuberEtAl2024SeventyYearsDiminishing",
+		"type": "article-journal",
+		"abstract": "The California Central Valley steelhead (Oncorhynchus mykiss) has declined precipitously since Euro-American colonization and has been listed as threatened under the United States Endangered Species Act since 1998. Hatchery-origin fish now dominate the population, and hatchery management is a key listing factor. However, scant release metric information is available. We compiled a time series of O. mykiss hatchery release data for all four Central Valley hatcheries releasing O. mykiss between 1948 and 2017. The biocomplexity of released fish has declined since the early 1980s. Individuals have been released at increasingly similar numbers, biomass, body sizes, times, and locations over time. Moreover, yearling fish have been released at larger sizes, leading to the near-exclusive release of age-1 smolts in February and March since the late 1990s and early 2000s. Pervasive reductions in release portfolios have likely occurred for other hatchery-supported Pacific salmonid stocks throughout the Pacific Rim region. In an increasingly variable environment, such reductions in intraspecific diversity could significantly affect population stability and resilience.",
+		"citation-key": "HuberEtAl2024SeventyYearsDiminishing",
+		"container-title": "Canadian Journal of Fisheries and Aquatic Sciences",
+		"DOI": "10.1139/cjfas-2023-0077",
+		"ISSN": "0706-652X",
+		"issue": "4",
+		"journalAbbreviation": "Can. J. Fish. Aquat. Sci.",
+		"page": "355-367",
+		"publisher": "NRC Research Press",
+		"source": "cdnsciencepub.com (Atypon)",
+		"title": "Seventy years of diminishing biocomplexity of California Central Valley hatchery steelhead, Oncorhynchus mykiss",
+		"URL": "https://cdnsciencepub.com/doi/full/10.1139/cjfas-2023-0077",
+		"volume": "81",
+		"author": [
+			{
+				"family": "Huber",
+				"given": "Eric R."
+			},
+			{
+				"family": "Ryan",
+				"given": "Rachael E."
+			},
+			{
+				"family": "Johnson",
+				"given": "Rachel C."
+			},
+			{
+				"family": "Sturrock",
+				"given": "Anna M."
+			},
+			{
+				"family": "Lusardi",
+				"given": "Robert A."
+			},
+			{
+				"family": "Carlson",
+				"given": "Stephanie M."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					4,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "IrvineEtAlMarineRiskAssessment",
+		"type": "article-journal",
+		"citation-key": "IrvineEtAlMarineRiskAssessment",
+		"language": "en",
+		"source": "Zotero",
+		"title": "Marine Risk Assessment for Natural-Origin West Coast Vancouver Island Chinook Salmon (Oncorhynchus tshawytscha)",
+		"author": [
+			{
+				"family": "Irvine",
+				"given": "James R"
+			},
+			{
+				"family": "Luedke",
+				"given": "Wilf"
+			},
+			{
+				"family": "Pearsall",
+				"given": "Isobel"
+			},
+			{
+				"family": "Sastri",
+				"given": "Akash"
+			},
+			{
+				"family": "Carson",
+				"given": "Christian"
+			},
+			{
+				"family": "Menendez",
+				"given": "Claire"
+			},
+			{
+				"family": "Hutchinson",
+				"given": "Jessica"
+			},
+			{
+				"family": "Miller-Saunders",
+				"given": "Kristi M"
+			}
+		]
+	},
+	{
+		"id": "PolyakovEtAl2022GroupSizeAffects",
+		"type": "article-journal",
+		"abstract": "Grouping is ubiquitous across animal taxa and environments. Safety in numbers is perhaps the most cited reason for grouping, yet this fundamental tenet of ecological theory has rarely been tested in wild populations. We analyzed a multidecadal dataset of Pacific salmon at sea and found that individuals in larger groups had lower predation risk; within groups of fish, size outliers (relatively small and large fish) had increased predation risk. For some species, grouping decreased foraging success, whereas for other species, grouping increased foraging success, indicating that safety competition trade-offs differed among species. These results indicate that survival and growth depend on group size; understanding the relationship between group size distributions and population size may be critical to unraveling ecology and population dynamics for marine fishes.",
+		"citation-key": "PolyakovEtAl2022GroupSizeAffects",
+		"container-title": "Science Advances",
+		"DOI": "10.1126/sciadv.abm7548",
+		"issue": "26",
+		"page": "eabm7548",
+		"publisher": "American Association for the Advancement of Science",
+		"source": "science.org (Atypon)",
+		"title": "Group size affects predation risk and foraging success in Pacific salmon at sea",
+		"URL": "https://www.science.org/doi/full/10.1126/sciadv.abm7548",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Polyakov",
+				"given": "Anne Y."
+			},
+			{
+				"family": "Quinn",
+				"given": "Thomas P."
+			},
+			{
+				"family": "Myers",
+				"given": "Katherine W."
+			},
+			{
+				"family": "Berdahl",
+				"given": "Andrew M."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					10,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					6,
+					29
+				]
+			]
+		}
+	},
+	{
+		"id": "RahrIIIEtAl2025StrongholdsPacificSalmon",
+		"type": "article-journal",
+		"citation-key": "RahrIIIEtAl2025StrongholdsPacificSalmon",
+		"container-title": "Fisheries",
+		"page": "1-17",
+		"title": "Strongholds for Pacific salmon: A proactive conservation strategy for ecosystem health, food security, biodiversity, and climate resilience",
+		"URL": "https://academic.oup.com/fisheries/advance-article/doi/10.1093/fshmag/vuaf011/8090126",
+		"volume": "00",
+		"author": [
+			{
+				"family": "Rahr",
+				"given": "Guido R"
+			},
+			{
+				"family": "Sloat",
+				"given": "Matthew R"
+			},
+			{
+				"family": "Atlas",
+				"given": "William I"
+			},
+			{
+				"family": "Hart",
+				"given": "Jonathan L."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					3,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025"
+				]
+			]
+		}
+	},
+	{
+		"id": "PinskyEtAl2009RangeWideSelectionCatchments",
+		"type": "article-journal",
+		"citation-key": "PinskyEtAl2009RangeWideSelectionCatchments",
+		"container-title": "Conservation Biology",
+		"DOI": "10.1111/j.1523-1739.2008.01156.x",
+		"ISSN": "1523-1739",
+		"issue": "3",
+		"language": "en",
+		"page": "680-691",
+		"source": "conbio.onlinelibrary.wiley.com",
+		"title": "Range‐Wide Selection of Catchments for Pacific Salmon Conservation",
+		"URL": "https://conbio.onlinelibrary.wiley.com/doi/10.1111/j.1523-1739.2008.01156.x",
+		"volume": "23",
+		"author": [
+			{
+				"family": "Pinsky",
+				"given": "Malin L."
+			},
+			{
+				"family": "Springmeyer",
+				"given": "Dane B"
+			},
+			{
+				"family": "Goslin",
+				"given": "Matthew N."
+			},
+			{
+				"family": "Augerot",
+				"given": "Xanthippe"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					3,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "ConnorsEtAl2026DemocratizingDataSupport",
+		"type": "article-journal",
+		"abstract": "Canada’s Wild Salmon Policy (WSP) highlights the importance of biodiversity conservation for supporting the resilience of Paciﬁc salmon. Two decades after its introduction, the WSP remains largely unimplemented. Monitoring and assessing the status of salmon Conservation Units and their habitats is the WSP’s foundation, enabling timely, evidence-based responses to prevent biodiversity loss. With federal progress on monitoring and assessment lagging, the Paciﬁc Salmon Foundation created a streamlined and transparent approach. We outline our work to democratize salmon data by integrating disparate sources and publicly sharing frequently updated status assessments through the Paciﬁc Salmon Explorer, an online data visualization tool. Further advancing the objectives of the WSP will require the federal government to prioritize sharing rapid biological status assessments, applying the precautionary approach to data-deﬁcient Conservation Units, and integrating habitat assessments into salmon management to support biodiversity and ecosystem resilience. Additionally, efforts to improve data stewardship and accessibility and establish stronger government accountability to ensure transparent, consistent, and effective conservation actions are essential to meaningful and sustained progress.",
+		"citation-key": "ConnorsEtAl2026DemocratizingDataSupport",
+		"container-title": "Canadian Journal of Fisheries and Aquatic Sciences",
+		"DOI": "10.1139/cjfas-2025-0250",
+		"ISSN": "0706-652X, 1205-7533",
+		"journalAbbreviation": "Can. J. Fish. Aquat. Sci.",
+		"language": "en",
+		"page": "1-21",
+		"source": "DOI.org (Crossref)",
+		"title": "Democratizing data to support the implementation of Canada’s Wild Salmon Policy",
+		"URL": "https://cdnsciencepub.com/doi/10.1139/cjfas-2025-0250",
+		"volume": "83",
+		"author": [
+			{
+				"family": "Connors",
+				"given": "Katrina"
+			},
+			{
+				"family": "Peacock",
+				"given": "Stephanie J."
+			},
+			{
+				"family": "Hertz",
+				"given": "Eric"
+			},
+			{
+				"family": "Carturan",
+				"given": "Bruno S."
+			},
+			{
+				"family": "Porter",
+				"given": "Marc"
+			},
+			{
+				"family": "Bryan",
+				"given": "Katy"
+			},
+			{
+				"family": "Drennan",
+				"given": "Rheanna"
+			},
+			{
+				"family": "Honka",
+				"given": "Leah"
+			},
+			{
+				"family": "Jones",
+				"given": "Eileen"
+			},
+			{
+				"family": "Belton",
+				"given": "Kathleen"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					3,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2026",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "PeacockEtAl2026QuantifyingExposurePacific",
+		"type": "article",
+		"abstract": "Climate change can affect salmon and steelhead (Oncorhynchus spp.) throughout their anadromous life cycles, yet there have been no assessments of which Canadian populations face the greatest exposure. We developed a framework to quantify relative climate change exposure of salmon and steelhead populations based on the spatial and temporal distribution of different life stages. Exposure was calculated from climate model projections for freshwater and marine climate variables considering unique impact thresholds for each population and life stage. We applied this framework to 60 Conservation Units of Pacific salmon and steelhead in the Fraser River basin, British Columbia. Lake-type sockeye had the highest exposure, driven by elevated stream temperatures during adult freshwater migration and spawning stages and relatively low thermal tolerance of marine stages. Chinook salmon were the next most exposed, while coho, pink, and chum salmon had relatively low exposure. Uniquely, steelhead exposure was driven by high stream temperatures during incubation. Our framework is broadly applicable, and our findings provide critical input for climate change vulnerability assessments and forward-looking resilience planning for Pacific salmon.",
+		"citation-key": "PeacockEtAl2026QuantifyingExposurePacific",
+		"DOI": "10.64898/2026.03.18.712684",
+		"language": "en",
+		"license": "© 2026, Posted by openRxiv. This pre-print is available under a Creative Commons License (Attribution 4.0 International), CC BY 4.0, as described at http://creativecommons.org/licenses/by/4.0/",
+		"note": "ISSN: 2692-8205\npage: 2026.03.18.712684\nsection: New Results",
+		"publisher": "bioRxiv",
+		"source": "bioRxiv",
+		"title": "Quantifying Exposure of Pacific Salmon and Steelhead to Climate Change in the Fraser River basin",
+		"URL": "https://www.biorxiv.org/content/10.64898/2026.03.18.712684v1",
+		"author": [
+			{
+				"family": "Peacock",
+				"given": "Stephanie J."
+			},
+			{
+				"family": "Cheung",
+				"given": "William"
+			},
+			{
+				"family": "Connors",
+				"given": "Brendan"
+			},
+			{
+				"family": "Crozier",
+				"given": "Lisa"
+			},
+			{
+				"family": "Grant",
+				"given": "Sue"
+			},
+			{
+				"family": "Hertz",
+				"given": "Eric"
+			},
+			{
+				"family": "Hunt",
+				"given": "Brian P. V."
+			},
+			{
+				"family": "Iacarella",
+				"given": "Josephine C."
+			},
+			{
+				"family": "Lagasse",
+				"given": "Cory R."
+			},
+			{
+				"family": "Moore",
+				"given": "R. Dan"
+			},
+			{
+				"family": "Moore",
+				"given": "Jonathan W."
+			},
+			{
+				"family": "Nicolas-Robinne",
+				"given": "Francois"
+			},
+			{
+				"family": "Porter",
+				"given": "Marc"
+			},
+			{
+				"family": "Schnorbus",
+				"given": "Markus"
+			},
+			{
+				"family": "Wilson",
+				"given": "Samantha M."
+			},
+			{
+				"family": "Connors",
+				"given": "Katrina"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2026",
+					3,
+					20
+				]
+			]
+		}
+	}
+]

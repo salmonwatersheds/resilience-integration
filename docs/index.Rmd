@@ -1,0 +1,14 @@
+---
+title: "resilience-integration"
+author: "Stephanie Peacock"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## List of documents
+
+* [draft-results_2026-04-09](draft-results.html)

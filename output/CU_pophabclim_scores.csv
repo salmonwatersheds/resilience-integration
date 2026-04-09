@@ -1,0 +1,50 @@
+"species_name","cuid","cu_name_pse","biostatus","biostatus_type","pop_score","hab_score","clim_score"
+"Chinook",303,"Lower Fraser River (Fall 4-1)","fair","percentile",2.0472,2,0.186985478436534
+"Chinook",304,"Lower Fraser River (Spring 5-2)","fair","percentile",2.4142,1.94682190490625,0.214479110538835
+"Chinook",305,"Lower Fraser River-Upper Pitt (Summer 5-2)","poor","percentile",2.9898,2.04792939792201,0.302429186816104
+"Chinook",306,"Lower Fraser River (Summer 5-2)","fair","percentile",2.0038,1.51407439751959,0.249388460314462
+"Chinook",307,"Lower Fraser River-Maria Slough (Summer 4-1)","poor","percentile",2.9172,3,0.26839838381058
+"Chinook",308,"Fraser Canyon-Nahatlatch (Spring 5-2)","fair","percentile",1.6086,1.75458336706577,0.284186486599432
+"Chinook",309,"Middle Fraser River-Portage (Fall 5-2)","poor","percentile",2.4378,2.21875755296467,0.218654912284827
+"Chinook",310,"Middle Fraser River (Spring 5-2)","poor","percentile",2.7004,2.5488972142405,0.26972160126373
+"Chinook",311,"Middle Fraser River (Summer 5-2)","fair","percentile",2.4978,2.59778897877142,0.270366225856454
+"Chinook",312,"Upper Fraser River (Spring 5-2)","poor","percentile",2.892,1.84814875185364,0.355254774312155
+"Chinook",313,"South Thompson River (Summer 4-1)","good","percentile",1.0454,2.85170609546771,0.262438263242725
+"Chinook",314,"South Thompson River (Summer 5-2)","fair","percentile",1.9622,2.73191488811493,0.265881418480686
+"Chinook",315,"Shuswap River (Summer 4-1)","good","percentile",1.2004,2.77600951122033,0.249646627683995
+"Chinook",316,"South Thompson River-Bessette Creek (Summer 4-2)","poor","percentile",2.98,3,0.297470280636555
+"Chinook",317,"Lower Thompson River (Spring 4-2)","fair","percentile",2.0036,2.58793303837472,0.267697519107703
+"Chinook",318,"North Thompson River (Spring 5-2)","fair","percentile",2.2164,2.68813065783542,0.309302430002675
+"Chinook",319,"North Thompson River (Summer 5-2)","fair","percentile",2.1862,2.60157874539299,0.286431325260705
+"Chum",701,"Lower Fraser","poor","percentile",2.9284,2.49069773249459,0.147668233156859
+"Coho",705,"Fraser Canyon","good","sr",1,2.08924261744963,0.177515347790348
+"Coho",707,"Lower Thompson","good","sr",1,2.64618339733996,0.16740199219851
+"Coho",708,"South Thompson","good","sr",1,2.58571407481069,0.176942567768373
+"Coho",709,"North Thompson","good","sr",1,2.5209344397675,0.182977253144922
+"Pink",710,"Fraser River (odd)","good","sr",1.004048,2.51167077868298,0.193313143971039
+"Sockeye",711,"Chilliwack-Early Summer (cyclic)","poor","sr",2.914223,1.56529742155623,0.292537772364488
+"Sockeye",712,"Cultus-Late","poor","percentile",2.9984,2.57488294474645,0.217469829480029
+"Sockeye",713,"Harrison-Downstream Migrating-Late","poor","sr",2.999286,1.36682972105362,0.313963462956787
+"Sockeye",714,"Harrison-Upstream Migrating-Late","poor","sr",2.989048,3,0.29257557176232
+"Sockeye",715,"Pitt-Early Summer","fair","sr",2.172143,1.33776730170247,0.302492596241404
+"Sockeye",716,"Lillooet-Harrison-Late","poor","sr",2.890476,1.27732723026713,0.251127749301049
+"Sockeye",718,"Nahatlatch-Early Summer","fair","sr",2.001907,1.24862722899001,0.322963138417974
+"Sockeye",719,"Anderson-Seton-Early Summer","fair","sr",2.329048,1.47824652651753,0.307941966487353
+"Sockeye",721,"Chilko-Summer","fair","sr",2.006428,1.05096939928,0.333057604242595
+"Sockeye",725,"Francois-Fraser-Summer","fair","sr",2.091429,2.89673232237547,0.319131508908501
+"Sockeye",727,"Nadina-Francois-Early Summer","fair","sr",1.748095,2.89673232237547,0.296238595633757
+"Sockeye",728,"Quesnel-Summer (cyclic)","poor","sr",3,1.91020509956883,0.318589691716948
+"Sockeye",729,"Seton-Late (de novo)","poor","sr",3,1.47824652651753,0.224023674690959
+"Sockeye",731,"Takla-Trembleur-Stuart-Summer (cyclic)","poor","sr",3,2.08620711039604,0.296872054942984
+"Sockeye",732,"Takla-Trembleur-Early Stuart (cyclic)","poor","sr",3,1.70614644190743,0.334930855694743
+"Sockeye",734,"Taseko-Early Summer","fair","percentile",1.9998,1.12069605811572,0.344958042458043
+"Sockeye",735,"Bowron-Early Summer","poor","sr",2.999762,1.09089185112,0.428542368125702
+"Sockeye",738,"Shuswap-Early Summer (cyclic)","poor","sr",3,2.22270113492819,0.31658095722238
+"Sockeye",739,"Shuswap-Late (cyclic)","poor","sr",2.999524,2.22270113492819,0.264173987616221
+"Sockeye",740,"Kamloops-Early Summer","poor","sr",2.73119,2.23544496509482,0.313009915568803
+"Sockeye",742,"Widgeon (river-type)","fair","percentile",2.0868,3,0.29403424091375
+"Sockeye",745,"Harrison River (river-type)","fair","sr",2.400714,2,0.300453211720238
+"Coho",749,"Interior Fraser","good","sr",1,2.11805447509729,0.144976402153751
+"Sockeye",752,"North Barriere-Early Summer (de novo)","poor","sr",2.990476,2.48454210712005,0.379455440776381
+"Steelhead",780,"Mid Fraser Summer","poor","percentile",2.999,1.55339603948211,0.197787164022063
+"Steelhead",781,"Thompson Summer","poor","percentile",2.9998,2.52749766817435,0.228675052041288
