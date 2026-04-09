@@ -282,8 +282,21 @@ strat <- data.frame(kmeans_result$centers) %>%
          hab_score = round(hab_score, 3),
          clim_score = round(clim_score, 3)) %>%
   select(cluster_no, pop_score, hab_score, clim_score, cluster_size) %>%
-  mutate(summary = c("Relatively high climate exposure but intact habitats may buffer against change; good biological status.", "Good biological status and low climate exposure, but high risk of habitat degradation.", "Fair to poor biological status and moderate risk of habitat degradation.", "Poor biological status and high climate change exposure.", "High risk of habitat degradation, with fair biological status and above-average climate exposure."),
-         strategy = c("Protect habitat and take actions (e.g., reduce fishing) to improve biological status.", "Habitat restoration may solidify these as salmon strongholds.", "Efforts in both habitat and population recovery are worthwhile as climate exposure is relatively low.", "Despite moderate risk to habitats, recovering these populations will require significant ongoing investment due to worsening impacts of climate change", "Habitat restoration is needed, but the return on investments may be less than for Cluster 2 owing to low current abundance and higher climate change exposure."))
+  mutate(summary = c(
+    "Fair to poor biological status and moderate risk of habitat degradation.", 
+    "Good biological status and low climate exposure, but high risk of habitat degradation.", 
+    "Poor biological status and high climate change exposure.", 
+    "High risk of habitat degradation, with fair biological status and above-average climate exposure.",
+    "Relatively high climate exposure but intact habitats may buffer against change; good biological status." 
+     
+    ),
+         strategy = c(
+           "Efforts in both habitat and population recovery are worthwhile as climate exposure is relatively low.", 
+           "Habitat restoration may solidify these as salmon strongholds.", 
+           "Despite moderate risk to habitats, recovering these populations will require significant ongoing investment due to worsening impacts of climate change" ,
+           "Habitat restoration is needed, but the return on investments may be less than for Cluster 2 owing to low current abundance and higher climate change exposure.",
+           "Protect habitat and take actions (e.g., reduce fishing) to improve biological status." 
+           ))
 
 rownames(strat) <- NULL
 
