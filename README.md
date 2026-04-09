@@ -1,21 +1,22 @@
-# r-analysis-template
+# resilience-integration
 
-Date
+April 9, 2026
 
 ## Overview
 
-In one or two sentences, what is this repo all about? This is the bare minimum of a README file
+Project to integrate information on biological status, habitat status, and climate change exposure to inform forward-looking strategies to support climate-resilient Pacific salmon. **This repo contains work in progress!**
 
 ## Files
 
-What are the files and folders contained in this repo and what do they do? Can be a file-by-file explanation (good) or a general overview (less good but likley the norm; e.g., This repo contains R code to reproduce the regional summaries shown in the Pacific Salmon Explorer landing page.)
+*`code` contains R code for data cleaning and analysis (in progress)
+* `data` contains raw input data
+* `docs` contains Rmd and html files for sharing draft methods and results or supplemental information via GutHub pages
+* `output` contains processed data files and results
 
 ## Acknowledgements
 
-Here is a place to acknowledge contributions from project partners and funders.
+This work is supported by the Pacific Salmon Foundation, led by the Data & Assessment Team. 
 
 ## More information
 
-Who can someone contact if they have questions? If you don't want to put your name, then direct folks to info at salmonwatersheds dot ca.
-
-Is there a paper or report in the Document Library that can be referenced here?
+For more information, contact Steph Peacock (speacock@psf.ca)
