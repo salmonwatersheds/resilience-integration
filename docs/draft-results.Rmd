@@ -35,6 +35,8 @@ names(status_cols)[1:3] <- c("good", "fair", "poor")
 * Pacific salmon are experiencing widespread declines throughout western North America.
 * The current management paradigm is focused on rebuilding stocks that have reached critically low abundances by identifying and attempting to address factors that led to their decline or may be inhibiting their recovery.
 * Although considerations of habitat degradation and climate climate change exposure may factor into recovery plans, there is a need for a proactive approach to salmon management that considers all salmon populations, their habitats, and the increasing threat of climate changes throughout their lifecycles.
+* "Extinction is forever, and it is infinitely harder to recover species at risk of extinction than to prevent their loss in the first place." [@CookeSmol2026CanadasEnvironmentalBiodiversity]
+
 
 # Data compilation
 * PSF has assessed the status of Pacific salmon Conservation Units and their freshwater habitats throughout B.C. and the Yukon [@ConnorsEtAl2026DemocratizingDataSupport].
@@ -148,7 +150,7 @@ print(kmeans_result$centers) # Interpretation of cluster characteristics
 * We can visualize the five clusters in the original 3D plot:
 ```{r, echo = FALSE, warning=FALSE, caption = "Plot of biological status, habitat status, and climate change exposure for 49 CUs in the Fraser River basin, colouring CU points according to how they cluster in 3D space."}
 #------------------------------------------------------------------------------
-# 3D plot by biological status
+# 3D plot by kmeans cluster
 #------------------------------------------------------------------------------
 
 scaled_data <- scaled_data %>% arrange(k_cluster, pop_score)
@@ -195,7 +197,7 @@ scaled_data$h_cluster <- as.factor(cutree(h_clust, k = n_clust))
   * This hierarchical clustering produces slightly different clusters than k-means, but they should be the same provided the same target is used. Something to look into...
 ```{r , echo=FALSE, caption = "Plot of biological status, habitat status, and climate change exposure for 49 CUs in the Fraser River basin, colouring CU points according to how they cluster in 3D space."}
 #------------------------------------------------------------------------------
-# 3D plot by biological status
+# 3D plot by hierarchical cluster
 #------------------------------------------------------------------------------
 
 scaled_data <- scaled_data %>% arrange(h_cluster, pop_score)

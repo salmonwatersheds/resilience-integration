@@ -81,7 +81,7 @@ biostatus$resilience_status <- case_when(
 
 # Create common variable for probabilities regardless of psf_status_type
 biostatus <- biostatus %>%
-  left_join(benchmarks %>% select(cuid, curr_spw)) %>%
+  left_join(benchmarks %>% select(cuid, curr_spw, curr_spw_end_year)) %>%
   mutate(
     red_prob = case_when(
       resilience_status_type == "sr" ~ sr_red_prob/100,
@@ -101,6 +101,11 @@ biostatus <- biostatus %>%
   
 # Which CUs don't have a score? -> Extinct or data deficient. OK.
 biostatus %>% filter(is.na(pop_score)) %>% select(species_name, cu_name_pse, psf_status)
+
+sum(!is.na(biostatus$pop_score))
+
+# What year's are status current to?
+biostatus %>% filter(!is.na(pop_score)) %>% summarise(unique(curr_spw_end_year))
 
 #------------------------------------------------------------------------------
 # Habitat status
